@@ -4,7 +4,7 @@ This project contains a simple greeting application using Docker. The frontend i
 
 ## Prerequisites
 
-Make sure you have the following Docker installed:
+Make sure you have the Docker installed.
 
 ## Setup
 
